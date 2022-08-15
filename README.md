@@ -384,7 +384,7 @@ _Don't forget to call the `run()` function._
 
 </details>
   
-<details id=5 open>
+<details id=5>
 <summary><h2> Step 5: Add your action to the workflow file</h2></summary>
 
 ### Great job!
@@ -433,7 +433,7 @@ Everything is all set up and now we are ready to start laughing. You will find y
  
 </details>
 
-<details id=7>
+<details id=7 open>
 <summary><h2>Finish</h2></summary>
 
 ### Congratulations, you've completed this course! 
